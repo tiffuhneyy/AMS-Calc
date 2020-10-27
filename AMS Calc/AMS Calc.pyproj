@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f1984fcd-22e5-461e-81b7-2e7f15acaefb</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>AMS_Calc.py</StartupFile>
+    <StartupFile>..\..\..\..\OneDrive\Documents\A-Z\!Me\Python\AMS_Calc.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
